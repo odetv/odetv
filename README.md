@@ -6,7 +6,7 @@
 <a href="https://github.com/odetv"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=odetv&theme=radical&layout=compact"></a>
 
 ### Repo Stats 🔭
-![github card](https://github-readme-stats.vercel.app/api/pin/?username=odetv&repo=OOP-PROJECT&theme=dark)
+![github card](https://github-readme-stats.vercel.app/api/pin/?username=odetv&repo=PROJECT-OOP&theme=dark)
 ![github card](https://github-readme-stats.vercel.app/api/pin/?username=odetv&repo=BOT-WA-ILKOM21&theme=nightowl)
 
 <details>
