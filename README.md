@@ -8,10 +8,3 @@
 ### Repo Stats 🔭
 ![github card](https://github-readme-stats.vercel.app/api/pin/?username=odetv&repo=PROJECT-OOP&theme=dark)
 ![github card](https://github-readme-stats.vercel.app/api/pin/?username=odetv&repo=BOT-WA-ILKOM21&theme=nightowl)
-
-<details>
-    <summary>&#127942 <b>GitHub Awards</b></summary><br/>
-
-![Github Trophy](https://github-profile-trophy.vercel.app/?username=odetv)
-
-</details>
