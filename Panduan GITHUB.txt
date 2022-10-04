@@ -1,0 +1,17 @@
+PANDUAN REMOTE GIT & GITHUB
+
+--Langkah Initialisasi--
+git config --global user.email "abdiutama02@gmail.com"
+git init
+git add .
+git remote add origin https://github.com/odetv/odetv.git
+git commit -m "Update File"
+git push -u origin master
+
+--Langkah Update File Dari File Lokal ke GitHub--
+git add .
+git commit -m "Update File"
+git push
+
+--Langkah Update File Dari GitHub ke File Lokal--
+git pull
