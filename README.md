@@ -1,4 +1,4 @@
-## Hey 👋, I'm Gelgel!  
+## Hi👋, I'm Gelgel!  
 
 
 
